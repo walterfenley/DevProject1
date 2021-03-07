@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 3; i++) {
             System.out.println("Runnning");
             Thread.sleep(2000);
         }
